@@ -1,1 +1,1 @@
-Here you will find the models of a D1, D2, D4, D6, and D8.
+Here you will find the models of a D1, D2, D3, D4, D6, D8, D10, and D12.
