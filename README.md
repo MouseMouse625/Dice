@@ -1,1 +1,1 @@
-Here you will find the models of a D1, D2, D3, D4, D6, D8, D10, and D12.
+Here you will find the models of a D1: A slanted cylinder, a D2: A rounded cylinder, a D3: A rounded cube, a D4: A tetrahedron, a D6: A cube, a D8: An octahedron, a D10: A pentagonal bipyramid, a D12: A dodecahedron, a D14: A heptagonal bipyramid, and a D16: A octagonal bipyramid.
